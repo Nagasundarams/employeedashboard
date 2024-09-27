@@ -1,0 +1,51 @@
+/* src/Dropdown.css */
+
+.dropdown {
+    position: relative;
+    display:inline-block;
+    /* Use flexbox for horizontal alignment */
+    align-items: center; /* Center items vertically */
+    width: Fill (226px)px;
+height: Hug (46px)px;
+gap: 8px;
+border-radius: 1000px 0px 0px 0px;
+opacity: 0px;
+}
+
+
+
+.dropdown-content {
+    display: block; /* Show when open */
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.icon5{
+    width: 24px; /* Set the desired width of the image */
+    height: 24px; /* Set the desired height of the image */
+     /* Add some space between the image and text */
+padding: 11px 0px 0px 0px;
+gap: 10px;
+border-radius: 1000px 0px 0px 0px;
+opacity: 0px;
+color: #2695FB;
+
+
+}
+.dropdown-content a:hover {
+    background-color: #f1f1f1; /* Highlight on hover */
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+

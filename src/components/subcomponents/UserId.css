@@ -1,0 +1,76 @@
+
+.userid{
+    width:1020px;
+height: 195px;
+padding: 20px 0px 0px 0px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.imgcontainer{
+    width: 155px;
+height: 155px;
+gap: 0px;
+opacity: 0px;
+
+}
+.imgcontainer img{
+    width: 155px;
+height: 155px;
+gap: 0px;
+border-radius: 25px 25px 25px 25px;
+opacity: 0px;
+
+}
+.infocontainer{
+    width: 803px;
+height: 127px;
+padding: 21px 20px 21px 0px;
+gap: 8px;
+opacity: 0px;
+
+}
+.tag{
+    width: 56px;
+height: 20px;
+padding: 2px 10px 2px 10px;
+gap: 10px;
+border-radius: 20px 20px 20px 20px;
+opacity: 0px;
+color: white;
+background: #2695FB;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+}
+.infocontainer h3{
+    width: 783px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 24.51px;
+letter-spacing: 0.02em;
+text-align: left;
+color: var(--black-header-text-color, #181A2B);
+
+
+}
+.infocontainer div{
+    width: 589px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}

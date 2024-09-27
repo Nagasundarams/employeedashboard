@@ -1,0 +1,130 @@
+.profilepic {
+    position: relative;
+    display: inline-block;
+    margin-left: 35%;
+}
+.yprofilepic {
+    position: relative;
+    display: inline-block;
+    margin-left: 35%;
+}
+.cardbutton{
+    width: Fill (197px)px;
+    height: Hug (30px)px;
+    padding: 5px 11px 5px 11px;
+    margin-left: 28%;
+    gap: 4px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #2695FB;
+    background: var(--White-color, #FFFFFF);
+    box-shadow: 0px 4px 6px 0px #9155FD1A;
+
+}
+
+.profilepic img {
+    width: 52px; /* Adjust size as needed */
+    height: 52px; /* Adjust size as needed */
+    border: 2px solid #2695FB; /* Blue border */
+    border-radius: 50%; /* Makes the image round */
+}
+.yprofilepic img {
+    width: 52px; /* Adjust size as needed */
+    height: 52px; /* Adjust size as needed */
+    border: 2px solid #F9A602; /* Blue border */
+    border-radius: 50%; /* Makes the image round */
+}
+
+.active {
+    position: absolute;
+    bottom: 5px; /* Adjust for desired positioning */
+    right: 5px; /* Adjust for desired positioning */
+    width: 10px; /* Adjust size as needed */
+    height: 10px; /* Adjust size as needed */
+    border-radius: 50%; /* Round indicator */
+    background-color: #1CCE66;
+}
+
+
+
+.inactive {
+    position: absolute;
+    bottom: 5px; /* Adjust for desired positioning */
+    right: 5px; /* Adjust for desired positioning */
+    width: 10px; /* Adjust size as needed */
+    height: 10px; /* Adjust size as needed */
+    border-radius: 50%; /* Round indicator */
+    background-color: #FF6363; /* Inactive status */
+}
+
+.employeedetail{
+    width: Fill (237px)px;
+height: Hug (54px)px;
+padding: 6px 20px 6px 0px;
+gap: 4px;
+opacity: 0px;
+}
+.employeename{
+    width: 197px;
+height: 22px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22px;
+text-align: center;
+color:#181A2B;
+}
+.employeetitle{
+    width: 197px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: center;
+color: #51AAFC;
+}
+.yemployeetitle{
+    width: 197px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: center;
+color: #F9A602;
+
+
+}
+.employeecard{
+    width: 200px;
+height: Hug (196px)px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+justify-content: center;
+align-items: center;
+padding: 15px;
+background: #F2F9FF;
+
+}
+.yemployeecard{
+    width: 200px;
+height: Hug (196px)px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+justify-content: center;
+align-items: center;
+padding: 15px;
+background: #FFFAF0;
+
+}
+

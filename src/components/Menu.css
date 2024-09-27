@@ -1,0 +1,126 @@
+.Menu{
+    width: 246px;
+height: 686px;
+padding: 18px 10px 18px 10px;
+gap: 18px;
+border-radius: 24px 0px 0px 24px;
+opacity: 0px;
+background: var(--White-color, #FFFFFF);
+
+}
+.Menuset{
+    width: 226px;
+height: 650px;
+gap: 18px;
+opacity: 0px;
+max-height: 100vh;
+overflow-y: scroll;
+overflow-x: hidden;
+
+
+}
+.Menu1 {
+    display: flex; /* Use flexbox for horizontal alignment */
+    align-items: center; /* Center items vertically */
+    width: Fill (226px)px;
+height: Hug (46px)px;
+gap: 8px;
+border-radius: 1000px 0px 0px 0px;
+opacity: 0px;
+padding: 10px;
+
+}
+
+.icon{
+    width: 24px; /* Set the desired width of the image */
+    height: 24px; /* Set the desired height of the image */
+    margin-right: 8px; /* Add some space between the image and text */
+padding: 11px 0px 0px 0px;
+gap: 10px;
+border-radius: 1000px 0px 0px 0px;
+opacity: 0px;
+color: #2695FB;
+
+}
+.icon6{
+    width: 24px; /* Set the desired width of the image */
+    height: 24px; /* Set the desired height of the image */
+    margin-right: 8px; /* Add some space between the image and text */
+padding: 6px 6px 6px 6px;
+gap: 10px;
+border-radius: 15px 15px 15px 15px;
+opacity: 0px;
+color: #ffffff;
+background-color: #2695FB;
+
+}
+.Menuset p{
+    width: 71px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+color: var(--grey-para-text-color, #5A5C60);
+
+
+}
+.Menu6{
+    display: flex;
+    width: 226px;
+height: 46px;
+align-items: center; 
+gap: 8px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #EEF6FF;
+
+}
+.Menuset::-webkit-scrollbar {
+    width: 4px;
+height: 228px;
+gap: 0px;
+opacity: 0px;
+
+
+
+}
+
+.Menuset::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Background of the track */
+    width: 2px;
+height: 228px;
+top: 229px;
+left: 233px;
+gap: 0px;
+border-radius: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.Menuset::-webkit-scrollbar-thumb {
+    background: #2695FB; /* Color of the scrollbar thumb */
+    border-radius: 10px; /* Round edges for the thumb */
+    min-height: 52px;
+}
+@media only screen and (min-width: 600px) {
+    .mainbody{display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 16px;}
+   
+  }
+  @media only screen and (min-width: 768px) {
+    .mainbody{display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;}
+
+
+  }
+  @media only screen and (min-width: 992px) {
+    .mainbody{display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;}
+  }

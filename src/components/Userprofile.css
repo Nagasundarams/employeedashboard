@@ -1,0 +1,109 @@
+.headerheadingup{
+    width: Hug (239px)px;
+height: Hug (64px)px;
+gap: 10px;
+opacity: 0px;
+
+}
+
+.pagenavigationup{
+    width: 222px;
+height: 16px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.homepageup{
+    display: flex;
+flex-direction: row;
+    width: 113px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+
+}
+.homepageup p{
+    
+    width: 98px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color: var(--grey-para-text-color, #5A5C60);
+animation-duration: 0ms;
+
+
+
+}
+.currentpageup{
+    width: 199px;
+height: 16px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.currentpageup p{
+    width: 99px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color: var(--black-header-text-color, #5A5C60) ;
+
+
+}
+.nextpageup{
+    width: 120px;
+height: 16px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.nextpageup p{
+    width: 99px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color: var(--black-header-text-color, #181A2B)}
+.navigationiconup{
+    width: Hug (4px)px;
+height: Hug (8px)px;
+margin-top: 12px;
+gap: 10px;
+opacity: 0px;
+color: #5A5C60;
+}
+.headingup h2{
+    width: 239px;
+height: 38px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 28px;
+font-weight: 600;
+line-height: 38.13px;
+letter-spacing: 0.02em;
+text-align: left;
+color: var(--black-header-text-color, #181A2B);
+
+}
+

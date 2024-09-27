@@ -1,0 +1,162 @@
+.header{
+    width: Fixed (1,366px)px;
+height: Hug (70px)px;
+padding: 16px 24px 16px 24px;
+gap: 1px;
+opacity: 0px;
+display: flex;
+    flex-direction: row;
+
+}
+.leftalign{
+    width: 1300px;
+    height: Hug (38px)px;
+    gap: 42px;
+    opacity: 0px;   
+    
+
+}
+.rightaligh{
+    display: flex;
+    flex-direction: row;
+    width: Fill (1,075px)px;
+height: Hug (38px)px;
+gap: 24px;
+opacity: 0px;
+}
+.siteheading{
+    width: Hug (143px)px;
+height: Hug (34px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.heading{
+    width: 143px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 32.68px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #000000;
+
+}
+.subheading{
+width: 133px;
+height: 9px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16.34px;
+letter-spacing: 0.02em;
+text-align: right;
+color: #000000;
+
+
+}
+.searchbar{
+    width: 150px;
+height: 20px;
+padding: 7px 20px 7px 20px;
+gap: 9px;
+border-radius: 19px 19px 19px 19px;
+opacity: 0px;
+background-color: #FFFFFF;
+box-shadow: 0px 0px 15px 0px #0000000D;
+
+}
+.searchplaceholder{
+    width: 98px;
+height: 22px;
+gap: 0px;
+opacity: 0.4px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+color: #858585;
+border: 0cm;
+margin-left: 10px;
+
+
+}
+.icon{
+    width: 24px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.round{
+    width: 16px;
+height: 16px;
+top: 3px;
+left: 3px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid var(--Primary-Primary-600, #2695FB)
+
+}
+.bar{
+    width: 4.35px;
+height: 4.35px;
+top: 16.65px;
+left: 16.65px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid var(--Primary-Primary-600, #2695FB)
+
+}
+.rightalign{
+   
+    width: Hug (243px)px;
+height: Hug (38px)px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+margin-top: 0px;
+
+}
+.arrow{
+    width: 24px;
+height: 24px;
+color:#2695FB
+
+}
+.myprofile {
+    width: 38px;
+    height: 38px;
+    left: 186px;
+    gap: 0px;
+    opacity: 0px;
+    overflow: hidden; 
+    border-radius: 50%; 
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    padding: auto;
+}
+
+.myprofile img {
+    width: 100%;
+    height: auto; 
+    border-radius: 50%; 
+}
+.userprofile{
+    display: flex;
+    flex-direction: row;
+}
+
+

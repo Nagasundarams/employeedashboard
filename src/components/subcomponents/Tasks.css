@@ -1,0 +1,272 @@
+.taskscontainer{
+    width: 1020px;
+height: 411px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+}
+.currentcontainer{
+    width: 324px;
+height: 411px;
+left: 348px;
+gap: 2px;
+margin-left: 10px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background: var(--White-color, #FFFFFF);
+    box-shadow: 0px 4px 16px 0px #0000000D;
+
+}
+.currentheader{
+    width: 324px;
+height: Hug (46px);
+padding: 15px 12px 15px 12px;
+gap: 0px;
+border-radius: 8px 8px 0px 0px;
+opacity: 0px;
+background-color: #F7F7F7;
+
+
+}
+.currentheader p{
+    width: 119px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color: var(--black-header-text-color, #181A2B);
+
+
+
+}
+.currenttasks{
+    width: 350px;
+height: 294px;
+top: 56px;
+left: 12px;
+gap: 18px;
+opacity: 0px;
+overflow-y: scroll;
+overflow-x: hidden;
+
+
+}
+.completedtasks{
+    width: 350px;
+    height: 294px;
+    top: 56px;
+    left: 12px;
+    gap: 18px;
+    opacity: 0px;
+}
+.pendingtasks{
+    width: 350px;
+    height: 294px;
+    top: 56px;
+    left: 12px;
+    gap: 18px;
+    opacity: 0px;
+}
+.currenttasks::-webkit-scrollbar {
+    width: 4px;
+height: 228px;
+gap: 0px;
+opacity: 0px;
+
+
+
+}
+.currenttasks::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Background of the track */
+    width: 2px;
+height: 228px;
+top: 229px;
+left: 233px;
+gap: 0px;
+border-radius: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.currenttasks::-webkit-scrollbar-thumb {
+    background: #2695FB; /* Color of the scrollbar thumb */
+    border-radius: 10px; /* Round edges for the thumb */
+    min-height: 52px;
+}
+.task1{
+    width: 300px;
+height: 86px;
+padding: 10px 20px 10px 20px;
+gap: 6px;
+border-radius: 8px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: var(--White-color, #FFFFFF);
+border: 1px solid var(--Stroke, #F0F0F0)
+}
+.successtask{
+    width: 300px;
+    height: 86px;
+    padding: 10px 20px 10px 20px;
+    gap: 6px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #ECFFF4;
+    border: 1px solid var(--Stroke, #F0F0F0)
+
+}
+.failuretask{
+    width: 300px;
+    height: 86px;
+    padding: 10px 20px 10px 20px;
+    gap: 6px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFF6F6;
+    
+    border: 1px solid var(--Stroke, #F0F0F0)
+
+}
+.task1 p{
+    width: 260px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+color: var(--black-header-text-color, #181A2B);
+
+
+}
+.successtask p{
+    width: 260px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+color: var(--black-header-text-color, #1CCE66);
+text-decoration: line-through;
+
+
+}
+.failuretask p{
+    width: 260px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+text-align: left;
+color: var(--black-header-text-color, black);
+
+
+}
+.taskproperties{
+    width: 260px;
+height: 20px;
+gap: 6px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+
+}
+.zen{
+    width: Hug (79px)px;
+height: Hug (20px)px;
+padding: 2px 8px 2px 8px;
+gap: 6px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+text-decoration: none;
+
+
+}
+.zenicon{
+    width: 12px;
+height: 12px;
+top: 2px;
+left: 2px;
+gap: 0px;
+opacity: 0px;
+color: #1CCE66;
+
+}
+.zen p{
+    width: 41px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+color: #181A2B;
+margin-top: 0px;
+margin-left: 1px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+
+}
+.zlabel{
+    width: 27px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color: #FF6363;
+background: #FFF6F6;
+margin-left: 20px;
+
+
+}
+.lowlevel{
+    width: 27px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+    color: #1CCE66;
+    background: #ECFFF4;
+    margin-left: 20px;
+
+}
+.mediumlevel{
+    width: 27px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+    color: #F9A602;
+    background: #FDF4ED;
+    margin-left: 20px;
+
+}

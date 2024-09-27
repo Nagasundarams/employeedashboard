@@ -1,0 +1,130 @@
+[
+    {
+            "id":"1",
+            "name": "victor",
+            "title": "Ui/Ux Team Lead",
+            "color": "blue",
+            "availablity": "absent",
+            "imgurl":"https://s3-alpha-sig.figma.com/img/3d5c/b72f/ae1e058c2ed75ab981a9f8bb62e96a13?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ehy4Xho85KhBucPGnrUuldaCOidE3-MubKTLVSt6RXd7y13rKx5ayYhFDgGvRpqoDdG22v8cKz0WcwOJDPAYyk1JiWmrHZ4XKVUCI-QRv2luHQ54A9mDMvgVBzrjMmSxN0GtXT20dG6gMukWQFJA4QzzfP1LoP4siz2O6eiF4cuIUZGx4yc2IcHRiF75zdVVElxvArYDpwqQSEzQDT4NMr1Z4xjsdJ11kiIeCGvdavNe-YDlg3hHwj623sF~i5wGG1-Ne5JDkSr-3-SDphKTstA9JtAmAMRBe2dp67~DpxwaxakIfFoqVT-2xgv~WumqBFIzE1FsJcle1pKFY5fNMQ__"
+    },
+    {
+        "id":"2",
+        "name": "Steve",
+        "title": "Ui/Ux Team Lead",
+        "color": "blue",
+        "availablity": "absent",
+        "imgurl":"https://s3-alpha-sig.figma.com/img/3d5c/b72f/ae1e058c2ed75ab981a9f8bb62e96a13?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ehy4Xho85KhBucPGnrUuldaCOidE3-MubKTLVSt6RXd7y13rKx5ayYhFDgGvRpqoDdG22v8cKz0WcwOJDPAYyk1JiWmrHZ4XKVUCI-QRv2luHQ54A9mDMvgVBzrjMmSxN0GtXT20dG6gMukWQFJA4QzzfP1LoP4siz2O6eiF4cuIUZGx4yc2IcHRiF75zdVVElxvArYDpwqQSEzQDT4NMr1Z4xjsdJ11kiIeCGvdavNe-YDlg3hHwj623sF~i5wGG1-Ne5JDkSr-3-SDphKTstA9JtAmAMRBe2dp67~DpxwaxakIfFoqVT-2xgv~WumqBFIzE1FsJcle1pKFY5fNMQ__"
+},{
+      "id":"3",  
+    "name": "Bille",
+    "title": "Blockchain Dev team manager",
+    "color": "yellow",
+    "availablity": "present",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/ed48/0863/b84968337933c5ff6f319d23afc87ab1?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FOmey6RRRktsuucezpiooiY08nFvZErCLoxvrAy9nGJwP9qrJgL4sL3p2~g9A7EgbBEQX6lExcBXYeHzrSPElHqLz23eHB3culp0LltvyiAQ4Jc2sns1ts7UmanXum2xhfsa-sSE~FFz9fn-5Y2zyBQSh5CA-zoY7L2Kiypx1BYlJV3eK4yWN9beIHn4prdkHVgYBMf0MEaW35R9xd7eQFOXLRdG0IVxUGXy-WVTA9svuHH-cJ8wY0BFILtlyLfT9fcRPtB-ZpS5ga7rmbMN2Q~yw0-Xl~aFpCuvmjxe3m4a3LTCmhayjTjebFr2yR6RQfXJrqZd9Vb6i1GTINFd1g__"
+},{
+     "id":"4",   
+    "name": "Andrille",
+    "title": "Sr. Ui/Ux Designer",
+    "color": "yellow",
+    "availablity": "present",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/5434/446e/ff00088f8524bfba308ca961a83bd7c5?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nc1AiDudBC9xxq4oyjvkajVTLHlzfc~lc7rnzlGV3oa164FDre1JxaS0HLZ9QbB3wdchxevmYya8DMhc~FJWkgk9e1n4h3xAOnzdz5wrH3Lt8CzqxnPMtxRqadD4St-kP3egY0aLjRmH4BqH6Xo8lCNYUtmym8W0w0eVvzlA1zB-z9uM36gzBdqSZjJ56OOcXehaUZEiVjxyaieWIRneRfHtMSWpUiuGKdpOWcRxHHClyvN2Ieuywy7bvrwR5qaIHSD14K0svZvqNwXhSE01Ec0Yf86Hryc211C89U-h2b-zBCNxRJf5donypBp~iw3sZ3c~vtdtkEZCdypH2WEPTg__"
+},{
+      "id":"5",  
+    "name": "Alexa",
+    "title": "Sr. Ui/Ux Designer",
+    "color": "blue",
+    "availablity": "present",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/e0e4/51e4/ad50c9058b8dbd89769c5c19c6aa3b47?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a3IYajdOQ2gqcbv65TT8SyX2pvjXfORuBQCyFttAc2GHFgQ-1RGVtQPbG8uG6CgZIbr4u59U3A7WLAIc0uE5pVlphsRvjIUJjnqddZ7LJrBhyLgpRVO9-Mf-OUhz4ZGfK0DNIXsZIL8YQEwJ0bH0V6c4J8zqQpXzevxjfI0EgpV23-zdckwOTt10BXEvcey9ggKl5XzaGd22a1QhHVXtMciHfswkLvU4y3I3E~ZfBAi08EVzuIOq3v0GAa6E4LlazJVsXrfeHMjM9cHtyvpXP60gVTUisxDVy7qrLIgTh8g-u~Qo8BS06ahoDZbiuLJN9-TpysFV-EGWvyTq7GuurA__"
+},{
+    "id":"6",    
+    "name": "Juliet",
+    "title": "Blockchain Dev team manager",
+    "color": "blue",
+    "availablity": "present",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/5188/bcdf/33f7c5aeefcef842ee93a1ac6a6adbf2?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Jt-3YzBGUgsX3u-OXrhzR6m0MKPaj8BMW7Aj6IObL4Mb46PQBOJFK7sKp7L0BPcHRgEX7v04Yr4Q-FrK405iMLfSpBcD6pQzP6BqcVyRy~mv75wOeh68DzrQtjX9GYAvV-3FfYuUd4rgwj-ClpoyOHX-rTbDqBkyQJIxE1z1dLLEwD-NYgdjwaVkaecFiepBQedMxNGJ0p4dZd7KZMZzNgVc1lnu2fBw311kD~hAjm~p5Ym~STJqKHErXv41t8yC0FXuerh4AYEHm8YvYedKPpqwJlku0wnJGsEvjYlPC8qWCYDFuiq5fFoj80kEoMnh4reW5EhCbipYwpDjDntwfw__"
+},{
+     "id":"7",   
+    "name": "Alita",
+    "title": "QA Team Manager",
+    "color": "Yellow",
+    "availablity": "absent",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/8e56/5f7d/045ef25eb7ea059c5099acaaa43f219a?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oITfDQi9z-TuO7CBHm0f3SmwZ4TbSiHECbVlhEqEJjCBrAIrdqJ9n8uPQiDLN8ptVr7IKj82eo-sMqZr73owNrm4pSgQt0q~r3FIRCJAknYWxttxqMgwssbKTbXzE2Sf4g0qV6Smss-DoSVSzX793AvcEMvu34oHoIj~ipZP5Ue3qmXMI28dtvurCXHFiC2ZMIDxQBq4UosdIYfhqeDlL1x0HJCf4I4Lx0ncW0osOe5OzgwTFts8Ssyjp-A6d6nC~iS-dQALGiN0mGFvssxU1cMTRmZNzG67w2hw2t7jNAzEkn-J6JzCzJKvowC8xoGvgimPs4ghznOF2hMrO7XKdw__"
+},{
+      "id":"8",  
+    "name": "Hina",
+    "title": "QA Team Lead",
+    "color": "Yellow",
+    "availablity": "absent",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/d067/c913/ad868d019f92ce267e6de23af3413e5b?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FfFZMDaPPyDH4lzex20D93VtedX~0HH7Z6k8eT8RATK~C47C15PzftFUQ8aPmICuzNBe7mCSrkB6KL6PIRGF6jxvv3ThAJrzFfEjEG47OmJW55S0oAbo1nJf4SVowFZba1Zgx1B9jsS~xHsUZKJaPNuaTRLk-nT0Y4nXGYeWMKb2ZOBcjU5Kr2CfhK2Ggme7Coqu7vXRKyqfp29VDRCkhUA2Payxji0~8GKu6CfHl4J~C-gqHsAik~kwjufTm-xoBF6zZd7-FiVfagQeeL2LLhcOo3tovAGxBtf8unjrkoktlwi8aqVN8SQTWwIVldylJ4~kIEUjfBSsRb5AV0B9Lw__"
+},{
+     "id":"9",   
+    "name": "Sharon",
+    "title": "project Manager",
+    "color": "blue",
+    "availablity": "present",
+    "imgurl":"https://s3-alpha-sig.figma.com/img/cc50/918a/135ade981f1f6c8244faf50d3e2eeaa6?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iicF8V-vgp1-FrcqD5gzLvnzO-tbbvFH8Ovfy5YAqhVDuneV7vA199pS~p5PaLy~K3i9YmVSdrLl5X~Gi2NkoGGzNUWq7KDv11Eczv2mvksOtZBFdXFfMLDIy9YlXDMTnlUhZHh-b0zpEICkNce-JTNl8f-kgegQR6RTPJGEL1KvzIXYZFVNC8d9~ZlkksjCSKoVKlVtDtaSu-tGEGZKJs0cJZGp5y8wl2uybzOyxzHEMZiNUj39QjV~0OFhhPhYHrj~Me2QpNIJIr1r~YNdZ1yv0GwUkZnU5g-QQYVXsBecru8kLye4rvvbK5CwGk5YoPjATZRGwQSbiXh7cGGXTw__"
+},{
+    "id":"10",   
+   "name": "shiva",
+   "title": "project vice Manager",
+   "color": "blue",
+   "availablity": "present",
+   "imgurl":"https://s3-alpha-sig.figma.com/img/e0e4/51e4/ad50c9058b8dbd89769c5c19c6aa3b47?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a3IYajdOQ2gqcbv65TT8SyX2pvjXfORuBQCyFttAc2GHFgQ-1RGVtQPbG8uG6CgZIbr4u59U3A7WLAIc0uE5pVlphsRvjIUJjnqddZ7LJrBhyLgpRVO9-Mf-OUhz4ZGfK0DNIXsZIL8YQEwJ0bH0V6c4J8zqQpXzevxjfI0EgpV23-zdckwOTt10BXEvcey9ggKl5XzaGd22a1QhHVXtMciHfswkLvU4y3I3E~ZfBAi08EVzuIOq3v0GAa6E4LlazJVsXrfeHMjM9cHtyvpXP60gVTUisxDVy7qrLIgTh8g-u~Qo8BS06ahoDZbiuLJN9-TpysFV-EGWvyTq7GuurA__"
+},{
+    "id":"11",  
+  "name": "sofia",
+  "title": "Blockchain Dev team manager",
+  "color": "yellow",
+  "availablity": "present",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/ed48/0863/b84968337933c5ff6f319d23afc87ab1?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FOmey6RRRktsuucezpiooiY08nFvZErCLoxvrAy9nGJwP9qrJgL4sL3p2~g9A7EgbBEQX6lExcBXYeHzrSPElHqLz23eHB3culp0LltvyiAQ4Jc2sns1ts7UmanXum2xhfsa-sSE~FFz9fn-5Y2zyBQSh5CA-zoY7L2Kiypx1BYlJV3eK4yWN9beIHn4prdkHVgYBMf0MEaW35R9xd7eQFOXLRdG0IVxUGXy-WVTA9svuHH-cJ8wY0BFILtlyLfT9fcRPtB-ZpS5ga7rmbMN2Q~yw0-Xl~aFpCuvmjxe3m4a3LTCmhayjTjebFr2yR6RQfXJrqZd9Vb6i1GTINFd1g__"
+},{
+   "id":"12",   
+  "name": "Nikita",
+  "title": "Sr. Ui/Ux Designer",
+  "color": "yellow",
+  "availablity": "present",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/5434/446e/ff00088f8524bfba308ca961a83bd7c5?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nc1AiDudBC9xxq4oyjvkajVTLHlzfc~lc7rnzlGV3oa164FDre1JxaS0HLZ9QbB3wdchxevmYya8DMhc~FJWkgk9e1n4h3xAOnzdz5wrH3Lt8CzqxnPMtxRqadD4St-kP3egY0aLjRmH4BqH6Xo8lCNYUtmym8W0w0eVvzlA1zB-z9uM36gzBdqSZjJ56OOcXehaUZEiVjxyaieWIRneRfHtMSWpUiuGKdpOWcRxHHClyvN2Ieuywy7bvrwR5qaIHSD14K0svZvqNwXhSE01Ec0Yf86Hryc211C89U-h2b-zBCNxRJf5donypBp~iw3sZ3c~vtdtkEZCdypH2WEPTg__"
+},{
+    "id":"13",  
+  "name": "Pavi",
+  "title": "Sr. Ui/Ux Designer",
+  "color": "blue",
+  "availablity": "present",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/e0e4/51e4/ad50c9058b8dbd89769c5c19c6aa3b47?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a3IYajdOQ2gqcbv65TT8SyX2pvjXfORuBQCyFttAc2GHFgQ-1RGVtQPbG8uG6CgZIbr4u59U3A7WLAIc0uE5pVlphsRvjIUJjnqddZ7LJrBhyLgpRVO9-Mf-OUhz4ZGfK0DNIXsZIL8YQEwJ0bH0V6c4J8zqQpXzevxjfI0EgpV23-zdckwOTt10BXEvcey9ggKl5XzaGd22a1QhHVXtMciHfswkLvU4y3I3E~ZfBAi08EVzuIOq3v0GAa6E4LlazJVsXrfeHMjM9cHtyvpXP60gVTUisxDVy7qrLIgTh8g-u~Qo8BS06ahoDZbiuLJN9-TpysFV-EGWvyTq7GuurA__"
+},{
+  "id":"14",    
+  "name": "Esther",
+  "title": "Blockchain Dev team manager",
+  "color": "blue",
+  "availablity": "present",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/5188/bcdf/33f7c5aeefcef842ee93a1ac6a6adbf2?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Jt-3YzBGUgsX3u-OXrhzR6m0MKPaj8BMW7Aj6IObL4Mb46PQBOJFK7sKp7L0BPcHRgEX7v04Yr4Q-FrK405iMLfSpBcD6pQzP6BqcVyRy~mv75wOeh68DzrQtjX9GYAvV-3FfYuUd4rgwj-ClpoyOHX-rTbDqBkyQJIxE1z1dLLEwD-NYgdjwaVkaecFiepBQedMxNGJ0p4dZd7KZMZzNgVc1lnu2fBw311kD~hAjm~p5Ym~STJqKHErXv41t8yC0FXuerh4AYEHm8YvYedKPpqwJlku0wnJGsEvjYlPC8qWCYDFuiq5fFoj80kEoMnh4reW5EhCbipYwpDjDntwfw__"
+},{
+   "id":"15",   
+  "name": "Alagu",
+  "title": "QA Team Manager",
+  "color": "Yellow",
+  "availablity": "absent",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/8e56/5f7d/045ef25eb7ea059c5099acaaa43f219a?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oITfDQi9z-TuO7CBHm0f3SmwZ4TbSiHECbVlhEqEJjCBrAIrdqJ9n8uPQiDLN8ptVr7IKj82eo-sMqZr73owNrm4pSgQt0q~r3FIRCJAknYWxttxqMgwssbKTbXzE2Sf4g0qV6Smss-DoSVSzX793AvcEMvu34oHoIj~ipZP5Ue3qmXMI28dtvurCXHFiC2ZMIDxQBq4UosdIYfhqeDlL1x0HJCf4I4Lx0ncW0osOe5OzgwTFts8Ssyjp-A6d6nC~iS-dQALGiN0mGFvssxU1cMTRmZNzG67w2hw2t7jNAzEkn-J6JzCzJKvowC8xoGvgimPs4ghznOF2hMrO7XKdw__"
+},{
+    "id":"16",  
+  "name": "Sowmi",
+  "title": "QA Team Lead",
+  "color": "Yellow",
+  "availablity": "absent",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/d067/c913/ad868d019f92ce267e6de23af3413e5b?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FfFZMDaPPyDH4lzex20D93VtedX~0HH7Z6k8eT8RATK~C47C15PzftFUQ8aPmICuzNBe7mCSrkB6KL6PIRGF6jxvv3ThAJrzFfEjEG47OmJW55S0oAbo1nJf4SVowFZba1Zgx1B9jsS~xHsUZKJaPNuaTRLk-nT0Y4nXGYeWMKb2ZOBcjU5Kr2CfhK2Ggme7Coqu7vXRKyqfp29VDRCkhUA2Payxji0~8GKu6CfHl4J~C-gqHsAik~kwjufTm-xoBF6zZd7-FiVfagQeeL2LLhcOo3tovAGxBtf8unjrkoktlwi8aqVN8SQTWwIVldylJ4~kIEUjfBSsRb5AV0B9Lw__"
+},{
+   "id":"17",   
+  "name": "Sharon J",
+  "title": "project Manager",
+  "color": "blue",
+  "availablity": "present",
+  "imgurl":"https://s3-alpha-sig.figma.com/img/cc50/918a/135ade981f1f6c8244faf50d3e2eeaa6?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iicF8V-vgp1-FrcqD5gzLvnzO-tbbvFH8Ovfy5YAqhVDuneV7vA199pS~p5PaLy~K3i9YmVSdrLl5X~Gi2NkoGGzNUWq7KDv11Eczv2mvksOtZBFdXFfMLDIy9YlXDMTnlUhZHh-b0zpEICkNce-JTNl8f-kgegQR6RTPJGEL1KvzIXYZFVNC8d9~ZlkksjCSKoVKlVtDtaSu-tGEGZKJs0cJZGp5y8wl2uybzOyxzHEMZiNUj39QjV~0OFhhPhYHrj~Me2QpNIJIr1r~YNdZ1yv0GwUkZnU5g-QQYVXsBecru8kLye4rvvbK5CwGk5YoPjATZRGwQSbiXh7cGGXTw__"
+},{
+  "id":"18",   
+ "name": "Naga",
+ "title": "project vice Manager",
+ "color": "blue",
+ "availablity": "present",
+ "imgurl":"https://s3-alpha-sig.figma.com/img/e0e4/51e4/ad50c9058b8dbd89769c5c19c6aa3b47?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a3IYajdOQ2gqcbv65TT8SyX2pvjXfORuBQCyFttAc2GHFgQ-1RGVtQPbG8uG6CgZIbr4u59U3A7WLAIc0uE5pVlphsRvjIUJjnqddZ7LJrBhyLgpRVO9-Mf-OUhz4ZGfK0DNIXsZIL8YQEwJ0bH0V6c4J8zqQpXzevxjfI0EgpV23-zdckwOTt10BXEvcey9ggKl5XzaGd22a1QhHVXtMciHfswkLvU4y3I3E~ZfBAi08EVzuIOq3v0GAa6E4LlazJVsXrfeHMjM9cHtyvpXP60gVTUisxDVy7qrLIgTh8g-u~Qo8BS06ahoDZbiuLJN9-TpysFV-EGWvyTq7GuurA__"
+}
+]
